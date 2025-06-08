@@ -4,7 +4,7 @@ MonadArena
 - **Seven:** 邮箱: <wangmbo962@gmail.com>
 - **Van1sa:** 邮箱: <va1s00xxm@gmail.com>
 ### 项目描述
-<代码仓库因为代理问题暂未提交，之后更新>
+https://github.com/Wangmbo/MonadArena
 MonadArena是一个基于Scaffold-ETH 2构建的创新链上交易竞技平台，部署在Monad测试网上。用户可以创建或加入交易竞赛房间，通过实际的MON代币交易表现来决定胜负，获胜者获得全部质押资金。
 ### 可用的在线演示链接
 链接: https://monad-arena.vercel.app/
