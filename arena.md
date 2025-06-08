@@ -1,5 +1,5 @@
 ### 项目名称
-MonadArena
+MonadArena-链上交易竞技场
 ### 团队信息
 - **Seven:** 邮箱: <wangmbo962@gmail.com>
 - **Van1sa:** 邮箱: <va1s00xxm@gmail.com>
